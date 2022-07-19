@@ -1,0 +1,21 @@
+footer{
+    max-width:390px;
+    margin: 24px auto;
+    padding: 0 60px;
+    background-color: transparent;
+    text-align: center;
+}
+footer strong{
+    font-size: 14px;
+    line-height: 1;
+}
+footer p{
+    line-height: 1;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 630px) {
+    footer {
+        max-width: 630px;
+    }
+  }
