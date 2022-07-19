@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@zip.js/zip.js": "^2.2.25",
     "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
     "fflate": "^0.7.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
