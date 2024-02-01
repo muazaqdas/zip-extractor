@@ -1,4 +1,4 @@
-import * as zip from '@zip.js/zip.js/dist/zip'
+import * as zip from "@zip.js/zip.js";
 import * as fflate from 'fflate'
 
 const { Deflate, Inflate } = zip.initShimAsyncCodec(

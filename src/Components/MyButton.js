@@ -1,6 +1,5 @@
 import { Button } from 'bootstrap'
 import React from 'react'
-// import { Button, Typography } from '@material-ui/core'
 
 
 const MyButton = (props) => {
